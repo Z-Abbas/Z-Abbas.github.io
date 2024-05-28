@@ -1,0 +1,28 @@
+/* styles.css */
+
+/* Reset default margin and padding */
+body, h1, p {
+    margin: 0;
+    padding: 0;
+}
+
+/* Center content horizontally */
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+/* Style headings */
+h1 {
+    font-size: 32px;
+    color: #333;
+    margin-bottom: 20px;
+}
+
+/* Style paragraphs */
+p {
+    font-size: 16px;
+    color: #666;
+    line-height: 1.5;
+}
